@@ -1,3 +1,6 @@
+#Time Complexity: O(n^2*length)+O(nlog n)
+#Space Complexity:O(n)
+
 class Solution {
 public:
    static bool compareString(string &s1,string &s2){

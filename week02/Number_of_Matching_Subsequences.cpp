@@ -1,3 +1,7 @@
+#Time Complexity:N*W*(log2(last – first) + O(1) comparisons)
+#Space Complexity:O(26)
+
+
 class Solution {
 public:
     int numMatchingSubseq(string s, vector<string>& words) {

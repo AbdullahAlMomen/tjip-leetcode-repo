@@ -1,3 +1,6 @@
+#Time Complexity:O(Nlog n)
+#Space Coplexity:O(1)
+
 class Solution {
 public:
 
